@@ -1,0 +1,7 @@
+## auto-generated
+docs/public
+docs/static/typescript/api
+
+## Nix
+/result
+/result-*
